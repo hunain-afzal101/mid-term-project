@@ -1,0 +1,236 @@
+.main-1{
+    color: antiquewhite;
+    position: relative;
+    left: 150%;
+    bottom: 180px;
+  }
+  
+  .p1{
+    color: yellow;
+    position: relative;
+    left: 153%;
+    bottom: 190px;
+  }
+  .search1{
+    background-color: white;
+    color: gray;
+    border-radius: 20px;
+    padding: 8px 8px ;
+    padding-left: 85px;
+    padding-right: 85px;
+    position: relative;
+    left: 150%;
+    bottom: 180px;
+  }
+  
+  .main-btn{
+    background-color: green;
+    color: white;
+    position: absolute;
+    top: 370px;
+    left: 640px;
+    border-radius: 20px;
+  
+  }
+  .p2{
+    color: white;
+    position: relative;
+    left: 170%;
+    bottom: 180px;
+  
+  }
+  
+.div5{
+    background-color: white;
+    width: 393%;
+    position: relative;
+    bottom: 117px;
+  }
+  .div6{
+    background-color: aquamarine;
+    width: 393%;
+    position: relative;
+    bottom: 117px;
+}
+
+.main2-1{
+    color: black;
+  text-align: center;
+  }
+  
+.sp-1{
+    color: white;
+    background-color: green;  
+    border-radius: 20px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    left: 520px;
+  }
+  .sp-2{
+    color: black;
+    background-color: #fff080;
+    border-radius: 20px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    left: 520px;
+  } 
+  .sp-5{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    left: 520px;
+  } 
+   .sp-3{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    left: 520px;
+  }
+  .sp-4{
+    color: black;
+    background-color: palevioletred;
+    border-radius: 20px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    left: 520px;
+  }
+  
+.main2-4{
+    color: black;
+  text-align: center;
+  }
+  
+  .p3-4{
+    color: black;
+    text-align: center;
+    bottom:25px ;
+    position: relative;
+  }
+  
+  
+  
+  
+  .main2-5{
+    color: black;
+  text-align: center;
+  }
+  
+  .p3-5{
+    color: black;
+    text-align: center;
+    bottom:25px ;
+    position: relative;
+  }
+  
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    transition: transform 0.2s;
+  }
+  
+.card h2 {
+    margin: 0 0 10px;
+  }
+  
+  .card p {
+    margin: 0 0 20px;
+    color: #333;
+  }
+  
+  .card button {
+    border: none;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .card button:hover {
+    background-color: #555;
+  }
+  
+  #php {
+    background-color: #ffcccc;
+    position: absolute;
+    right: 110px;
+    color: black;
+  }
+  
+  #jquery {
+    background-color: #ffffcc;
+    position: absolute;
+    left: 470px;
+    color: black;
+  }
+  
+  #java {
+    background-color: #f2f2f2;
+    position: absolute;
+    left: 50px;
+    color: black;
+  }
+  
+  #cpp {
+    background-color: #e6ffe6;
+    position:absolute;
+    margin-top: 300px;
+    left: 50px;
+    color: black;
+  }
+  
+  #w3css {
+    background-color: #ccffff;
+    position:absolute;
+    margin-top: 300px;
+    left: 470px;
+    color: black;
+  }
+  
+  #bootstrap {
+    background-color: #e6e6e6;
+    position:absolute;
+     margin-top: 300px;
+     right: 110px;
+     color: black;
+  }
+  
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  
+  
+  
